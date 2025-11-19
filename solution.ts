@@ -47,7 +47,7 @@ class Person {
 
 
 
-type items = {
+type Items = {
   title: string;
   rating: number;
 };
